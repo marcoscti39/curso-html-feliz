@@ -7,3 +7,30 @@
 .button:hover{
     background-color: #e93853;
 }
+.segundo{
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 100px;
+    padding: 0;
+    width: 170px;
+    height: 60px;
+    font-size: 20px;
+    font-family: Fira Code;
+    font-weight: 500;
+    color: white;
+    cursor: pointer;
+    
+}
+.primeiro{
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 130px;
+    font-size: 20px;
+    font-family: Fira Code;
+    font-weight: 500;
+    padding: 0;
+    width: 180px;
+    height: 60px;
+    color: white;
+    cursor: pointer;
+}
