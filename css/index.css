@@ -3,16 +3,7 @@ body {
 
 
 }
-header{
-    display: flex;
-    justify-content: space-between;
-    background-color: #7C5E99;
-    border-bottom: 10px solid #000;
-    padding: 10px 20px;
-}
-nav{
-    text-align: right;
-}
+
 a{
     display: inline-flex;
     align-items: center;
@@ -31,24 +22,12 @@ a::before{
     height: 10px;
     margin-right: 10px;
 }
-.button{
-    display: inline-block;
-    background-color: #F25A70;
-    padding: 20px 18px;
-    box-shadow: 5px 5px 0 #000;
-}
-.button:hover{
-    background-color: #e93853;
-}
+
 section{
 
 }
 
-}
-h1{
-    color: #F25A70;
-    text-shadow: 4px 4px 0px #000;
-}
+
 h2{
     color: white;
     text-shadow: 4px 4px 0px #000;
@@ -76,7 +55,7 @@ h2{
     font-family: Fira Code;
     font-weight: 500;
     padding: 0;
-    width: 170px;
+    width: 180px;
     height: 60px;
     color: white;
     cursor: pointer;
